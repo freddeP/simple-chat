@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+
+    font-size:1.4rem;
+}
+header input,header button{
+    padding:2%;
+    font-size:1.4rem;
+    width:100%;
+}
+{
+
+
+    padding:3%;
+}
+
+#chat{
+    min-height: 60vh;
+    border:1px solid #aaa;
+}
+
+p{
+    padding:1%;
+    border-bottom:1px solid #ddd;
+}
